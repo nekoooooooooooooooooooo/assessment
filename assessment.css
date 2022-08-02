@@ -1,0 +1,22 @@
+body {
+    background-color: #1b1b1b;
+    color : #eeeeee;
+    width : 500px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: #2e8b57;
+}
+button {
+    color: white;
+    padding: 5px 20px;
+    background-color: #7fbfff;
+    border-style: none;
+}
+/*カーソルが乗ったときの処理*/
+button:hover{
+    background-color:#007fff;
+}
+
+input {
+    height: 20px;
+}
